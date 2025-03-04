@@ -7,7 +7,7 @@ This is the backend service for the File Management Application. It provides aut
 1. Clone the repository
 
 git clone git@github.com:florianadoko/TogalAI-backend.git
-cd backend
+cd TogalAI-backend
 
 2. Install dependencies
    npm install
